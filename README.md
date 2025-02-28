@@ -1,5 +1,4 @@
-# Data Visualization Project
-# Marketing Campaign Predictive Model
+# Data Visualization Project: Marketing Campaign Predictive Model
 
 ## 📌 Project Overview
 This project aims to develop a predictive model that will optimize the profit for an upcoming marketing campaign. The dataset used for this analysis is available on Kaggle:
@@ -36,7 +35,7 @@ The goal is to analyze past campaign data, build a model that predicts customer 
 
 ## 📂 File Naming Convention
 - 📝 **Code Notebook**: `marketing_campaign_analysis.ipynb`
-- 📑 **Business Presentation**: `yourteam.pdf`
+- 📑 **Business Presentation**: `Hangimana_Nezerwa_Brevi.pdf`
 
 
 ## 🛠️ Tools & Libraries Used
